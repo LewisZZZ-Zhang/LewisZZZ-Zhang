@@ -28,10 +28,10 @@ Hi, I'm **Lewis Zhang**.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+<!-- ## 📊 GitHub Stats -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) -->
 
----
+<!-- --- -->
 
 ## 🌐 Connect with Me
 - 📫 **Email**: [tz2668@nyu.edu] 
