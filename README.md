@@ -37,6 +37,7 @@ Hi, I'm **Lewis Zhang**.
 - 📫 **Email**: [tz2668@nyu.edu] 
 - 💬 [LinkedIn](https://www.linkedin.com/in/tianluo-zhang-804442334/)  
 - 🌟 [Personal Website](https://github.com/LewisZZZ-Zhang)  
+- 🎨 [Pixiv](https://www.pixiv.net/users/67640367). 
 
 ---
 
