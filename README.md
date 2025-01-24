@@ -1,14 +1,42 @@
-# 欢迎来到我的 GitHub 主页 👋
+# Welcome to My GitHub Profile! 👋
 
-我是 **Your Name**，一个热衷于开源和技术分享的开发者！
+Hi, I'm **Lewis Zhang**.
 
-## 🚀 我的技能
-- 编程语言：Python, JavaScript, C++
+---
 
-## 🌟 我的项目
-- [项目 1](https://github.com/YourUsername/Project1): 项目描述
-- [项目 2](https://github.com/YourUsername/Project2): 项目描述
+## 🚀 About Me
+- 💼 **Current Role**: Undergraduate student at New York University 
+- 📍 **Location**: [Your City, Country]  
+- 🌱 **Learning**: Currently improving my skills in [Technologies or Fields].  
+- 🤝 **Collaboration**: Open to collaborating on interesting projects.  
 
-## 📫 联系我
-- Email: tz2668@nyu.edu
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+---
+
+## 🛠 Skills & Tools
+- **Languages**: [e.g., Python, JavaScript, C++]  
+- **Frameworks**: [e.g., React, Django, Flask]  
+- **Tools**: [e.g., Git, Docker, VS Code]  
+- **Other**: [e.g., Machine Learning, UI/UX Design]  
+
+---
+
+## 📂 Featured Projects
+- 🌟 [**Project 1**](https://github.com/YourUsername/Project1): Brief description of what the project does.
+- 🌟 [**Project 2**](https://github.com/YourUsername/Project2): Brief description of what the project does.
+- 🌟 [**Project 3**](https://github.com/YourUsername/Project3): Brief description of what the project does.
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- 📫 **Email**: [tz2668@nyu.edu] 
+- 💬 [LinkedIn](https://www.linkedin.com/in/tianluo-zhang-804442334/)  
+- 🌟 [Personal Website](https://github.com/LewisZZZ-Zhang)  
+
+---
+
+### Thank you for visiting my profile! 😊
