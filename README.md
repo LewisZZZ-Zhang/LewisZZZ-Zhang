@@ -16,7 +16,8 @@ Hi, I'm **Lewis Zhang**.
 - **Languages**: Python, JavaScript, C++  
 <!-- - **Frameworks**: [e.g., React, Django, Flask]   -->
 <!-- - **Tools**: [e.g., Git, Docker, VS Code]   -->
-<!-- - **Other**: [e.g., Machine Learning, UI/UX Design]   -->
+- **Other skills**: Vex robot, Digital painting
+<!-- [e.g., Machine Learning, UI/UX Design]   -->
 
 ---
 
