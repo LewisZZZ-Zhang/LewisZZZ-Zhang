@@ -6,17 +6,17 @@ Hi, I'm **Lewis Zhang**.
 
 ## 🚀 About Me
 - 💼 **Current Role**: Undergraduate student at New York University 
-- 📍 **Location**: [Your City, Country]  
-- 🌱 **Learning**: Currently improving my skills in [Technologies or Fields].  
+- 📍 **Location**: Shanghai, China 
+- 🌱 **Learning**: Majoring in Computer Science.  
 - 🤝 **Collaboration**: Open to collaborating on interesting projects.  
 
 ---
 
 ## 🛠 Skills & Tools
-- **Languages**: [e.g., Python, JavaScript, C++]  
-- **Frameworks**: [e.g., React, Django, Flask]  
-- **Tools**: [e.g., Git, Docker, VS Code]  
-- **Other**: [e.g., Machine Learning, UI/UX Design]  
+- **Languages**: Python, JavaScript, C++  
+<!-- - **Frameworks**: [e.g., React, Django, Flask]   -->
+<!-- - **Tools**: [e.g., Git, Docker, VS Code]   -->
+<!-- - **Other**: [e.g., Machine Learning, UI/UX Design]   -->
 
 ---
 
