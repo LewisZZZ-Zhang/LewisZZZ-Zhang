@@ -1,16 +1,14 @@
-## Hi there 👋
+# 欢迎来到我的 GitHub 主页 👋
 
-<!--
-**LewisZZZ-Zhang/LewisZZZ-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 **Your Name**，一个热衷于开源和技术分享的开发者！
 
-Here are some ideas to get you started:
+## 🚀 我的技能
+- 编程语言：Python, JavaScript, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 我的项目
+- [项目 1](https://github.com/YourUsername/Project1): 项目描述
+- [项目 2](https://github.com/YourUsername/Project2): 项目描述
+
+## 📫 联系我
+- Email: tz2668@nyu.edu
+- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
