@@ -21,10 +21,10 @@ Hi, I'm **Lewis Zhang**.
 
 ---
 
-## 📂 Featured Projects
-- 🌟 [**Project 1**](https://github.com/YourUsername/Project1): Brief description of what the project does.
-- 🌟 [**Project 2**](https://github.com/YourUsername/Project2): Brief description of what the project does.
-- 🌟 [**Project 3**](https://github.com/YourUsername/Project3): Brief description of what the project does.
+## 📂 Projects for Fun
+- 🤖 [Build a Gundam](https://lewiszzz-zhang.github.io/CClab/Build_a_Gundam/)
+- 👾 [Save the orbitrons](https://lewiszzz-zhang.github.io/CClab/Orbitrons/)
+<!-- - 🌟 [**Project 3**](https://github.com/YourUsername/Project3): Brief description of what the project does. -->
 
 ---
 
