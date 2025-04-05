@@ -13,7 +13,7 @@ Hi, I'm **Lewis Zhang**.
 ---
 
 ## 🛠 Skills & Tools
-- **Languages**: Python, JavaScript, C++  
+- **Languages**: Python, JavaScript, C++， SQL
 <!-- - **Frameworks**: [e.g., React, Django, Flask]   -->
 <!-- - **Tools**: [e.g., Git, Docker, VS Code]   -->
 - **Other Skills**: Vex Robot, Digital Painting
